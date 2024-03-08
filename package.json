@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@lhci/cli": "^0.13.0",
+    "@lhci/server": "^0.13.0",
+    "child_process": "^1.0.2",
+    "node-cron": "^3.0.3",
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4"
+  }
+}
